@@ -45,4 +45,34 @@ Always learning, experimenting, and exploring new technologies that make network
 ### 7️⃣ Databases
 - Basic SQL fundamentals  
 - MySQL
+## 🧰 Tools & Technologies
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+  
+  <!-- Networking & Security Tools -->
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Autopsy-1A1A1A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Packet_Tracer-1F8ACB?style=for-the-badge" />
+
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+
+  <!-- Operating Systems -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
+
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" />
+
+  <!-- Virtualization -->
+  <img src="https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" />
+</p>
 
